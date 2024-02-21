@@ -1,0 +1,14 @@
+:root {
+    --batman-white: url("../img/batman_white.svg");
+    --batman-invert: 0%;
+    --text-color: black;
+    --back-color: white;
+    --ball-color: white;
+  }
+  
+  .dark-mode {
+    --batman-invert: 100%;
+    --text-color: white;
+    --back-color: black;
+    --ball-color: black;
+  }
